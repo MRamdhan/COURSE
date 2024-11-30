@@ -1,4 +1,5 @@
 nama_buah = input("Nama Buah :")
+
 if " " in nama_buah:
     print("Nama Buah Tidak Boleh Menggunakan Spasi!")
 elif len(nama_buah) > 20:
